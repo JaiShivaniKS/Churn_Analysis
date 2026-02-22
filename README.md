@@ -7,13 +7,13 @@ This project analyzes churn behavior, identifies high-risk customers, and builds
 
 ## Project Workflow
 
-Data Cleaning using PostgreSQL
-Business KPI analysis (Churn rate, Revenue impact)
-Exploratory Data Analysis using Python
-Feature Engineering
-Logistic Regression Modeling
-Risk Segmentation (Low / Medium / High)
-Interactive Dashboard Development in Power BI
+-- Data Cleaning using PostgreSQL
+-- Business KPI analysis (Churn rate, Revenue impact)
+-- Exploratory Data Analysis using Python
+-- Feature Engineering
+-- Logistic Regression Modeling
+-- Risk Segmentation (Low / Medium / High)
+-- Interactive Dashboard Development in Power BI
 
 ## Data Preprocessing
 
@@ -97,6 +97,7 @@ Contract	Month-to-month / One year / Two year
 MonthlyCharges	Amount charged monthly
 TotalCharges	Total revenue from customer
 Churn	Yes = Customer left
+
 
 
 
