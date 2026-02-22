@@ -1,0 +1,29 @@
+Overall Churn Rate : 26.54
+    Total Customers : 7043
+    Churned Customers : 1869
+Note: 1 out of every 4 customers leave.
+Very high for telecom (a serious retention problem)
+
+Churned by Contract Type Rate : 
+    Month-to-Month : 42.71  (the customers are extremely unstable - 88%)
+        Total Customers : 3875
+        Churned : 1655
+    One Year : 11.27  (long term contracts dramatically reduces the churn)
+        Total Customers : 1473
+        Churned : 166
+    Two Years : 2.83
+        Total Customers : 1695
+        Churned : 48
+
+Revenue at Risk due to Churn : 2862926.90 (nearly 2.86 million lost revenue)
+
+Result: The company is losing nearly $2.9M due to churn, mostly riven by month-to-month customers.
+
+High Risk Segment:
+    Month-to-month
+    Short tenure
+    Possibly high monthly charges
+
+Recommendation:
+    Offer discounts to convert month-to-month customers into yearly plans
+    Early retention strategy for first 12 months
